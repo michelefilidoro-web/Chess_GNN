@@ -1,0 +1,752 @@
+[
+    {
+        "id": "003IX",
+        "target": 1,
+        "risposta_llm": "Il matto in 3."
+    },
+    {
+        "id": "004iZ",
+        "target": 1,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "004zI",
+        "target": 1,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "008Nz",
+        "target": 1,
+        "risposta_llm": "2\n\nIl matto in 2 mosse. Ogni pezzo deve muoversi una volta, evitando gli scacchianti e portando la loro posizione finale alla posizione iniziale. Poich\u00e9 nel matto, nessuno pu\u00f2 scacchiare in cima. Ogni scacchiera sul re (un scacchiera per ogni scacchiera sul piano se non attacchi all'ascendere su un re solo) pu\u00f2 muoversi, ma poich\u00e9 non si muoterebbero in tre mosse. La posizione iniziale del re non accede direttamente alla zona finale del re (l'arco 1a). Altrimenti, il re non poteva muoversi nel primo tentativo. Poich\u00e9 \u00e8 obbligato a muoversi nel primo tentativo, deve portare la sua posizione finale al punto iniziale. La sua posizione finale (arcata 1e) non pu\u00f2 essere raggiunta in due mosse, poich\u00e9 ha una scacchiera nemica sul re. Il re attacca direttamente il re nemica, ed \u00e8 obbligato a muoversi verso la retroterra.\n\nPoich\u00e9 nel matto, nessuno pu\u00f2 scacchiare per la prima volta, poich\u00e9 il regno non condivide la posizione finale con la posizione iniziale, il re non pu\u00f2 muoversi. Il regno nemico non pu\u00f2 muoversi, poich\u00e9 i regni nemici non hanno movimenti diretti alla fine finale con la posizione iniziale. Il regno del regno nemico non pu\u00f2 muoversi, poich\u00e9 i regni nemici non hanno mosse dirette alla fine finale con la posizione iniziale. I due scacchieri rossi non possono muoversi, poich\u00e9 le mosse dirette al finale con la posizione iniziale non sono possibili. Le mosse in una disposizione di matto richiedono che ogni pezzo raggiunga direttamente la sua posizione finale (confrontando con la posizione iniziale), quindi nessuno pu\u00f2 muoversi.\n\nLa posizione FEN illustra un matto in due mosse, poich\u00e9 tutti i pezzi devono muoversi una volta, raggiungendo la loro posizione finale direttamente dal loro punto iniziale. Ogni pezzo ha uno scacchiera nemico sulla posizione finale che preclude ogni singolo pezzo dal raggiungere la posizione finale con la sua attuale posizione. Le mosse per la prima volta nella posizione non sarebbero validi poich\u00e9 l'attacco diretta al regno, al regno nemico o al regno del regno nemico non \u00e8 consentito.\n\nLa posizione illustrata illustra un matto in due mosse. Ogni pezzo viene obbligato a muoversi una volta raggiungendo direttamente la posizione finale. Poich\u00e9 i regni nemici hanno un scacchiera nemica sulla posizione finale, che consente alle mosse dirette al finale con la posizione iniziale, ogni singolo pezzo non pu\u00f2 essere mosso per la prima volta. Le mosse per la prima volta nel matto devono avere il regno, il regno nemico o il regno del regno nemico attaccato, che non \u00e8 possibile. Pertanto, la posizione illustra un matto in due mosse.\n\nLa risposta \u00e8: 2"
+    },
+    {
+        "id": "008o6",
+        "target": 1,
+        "risposta_llm": "27. Matto in 1."
+    },
+    {
+        "id": "009L0",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00Bm8",
+        "target": 1,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "00C7m",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00DPQ",
+        "target": 1,
+        "risposta_llm": "4"
+    },
+    {
+        "id": "00FHX",
+        "target": 1,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00GRa",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00H1C",
+        "target": 1,
+        "risposta_llm": "Il matto forzato \u00e8 2. Matto in 2 mosse. Questo perch\u00e9 nel gioco da scacchi le case della casa di re sono critiche, ed \u00e8 facile da vedere come il gioco per Nero (le scacchi nere) si conclude in un messa faccia. Nero ha che fare con due capi in questa posizione, e in qualsiasi mossa di Pollice per Nero, il gioco per Pollice pu\u00f2 rispondere in modo tale da portare le facce in una casa diversa di Pollice, lasciando Pollice senza capi, anche se non usa capi per colpire, in questo modo."
+    },
+    {
+        "id": "00HHN",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00HPz",
+        "target": 1,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00HoG",
+        "target": 1,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00Hxb",
+        "target": 1,
+        "risposta_llm": "Matto in 1. La sequenza di mosse avvenuta \u00e8: 1... Rb8 2. Kd1 Ra8 3. Kc2 Ra2+ 4. Kc1 Ra1++ 5. Kxc1 Ke2 6. Kd2 Kd3 7. c4+ Ke4 8. c5+ Ke3 9. c6 Ne3 10. c7 Nf2+ 11. Kc8 (Matto) 11...."
+    },
+    {
+        "id": "00IPp",
+        "target": 1,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "00IaZ",
+        "target": 1,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00J7i",
+        "target": 1,
+        "risposta_llm": "Mazzo in 1."
+    },
+    {
+        "id": "00JO7",
+        "target": 1,
+        "risposta_llm": "6"
+    },
+    {
+        "id": "00MYL",
+        "target": 1,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00OPk",
+        "target": 1,
+        "risposta_llm": "Matto in 2. La seconda posizione di scacco in quaderni risulta in un matto per il re nero perch\u00e9 il cavallo Nero 2 ha scacciato il re bianco da qualsiasi casella sul quadrante 8, ed il re nero non ha nessuna posizione legittima da dove intervenire con la sua seconda mossa."
+    },
+    {
+        "id": "00OXc",
+        "target": 1,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00Ozz",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00P7n",
+        "target": 1,
+        "risposta_llm": "Matto in 3.\n\nLa terza mossa del rovente 3 \u00e8 m3, portando in gran parte a portare un patty che pu\u00f2 essere catturato dal regina al trullo 8, superando gli altri 2 pattiti che potrebbero potenzialmente annullare l'incidente."
+    },
+    {
+        "id": "00QY3",
+        "target": 1,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00SOy",
+        "target": 1,
+        "risposta_llm": "Matto in 2. Si pu\u00f2 raggiungere questo matto in due mosse. La prima mossa \u00e8 per B_f7, causando che il cavalier e la pedone sulla finestra debbano convergere sulla finestra. La seconda mossa, se viene 5.e4, si traduce in R_t8=, superando lo sfondo del castello, per il contego. Pertanto, la posizione del Bianco \u00e8 insostenibile con le mosse appropriate del Nero che porteranno alle perdite entro due mosse."
+    },
+    {
+        "id": "00SeK",
+        "target": 1,
+        "risposta_llm": "Matto in 8."
+    },
+    {
+        "id": "00T85",
+        "target": 1,
+        "risposta_llm": "Matto in 8."
+    },
+    {
+        "id": "00VIe",
+        "target": 1,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "000Zo",
+        "target": 2,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "001Wz",
+        "target": 2,
+        "risposta_llm": "Matto in 3. Il matto per le dame \u00e8 il turno 22. Le damine sulla sillaba del re (h8) sono matte di scorta, con il gioco in esecuzione a causa della mancata protezione dalle file dirette del cavallo sul 1a diagonale. La donna sul 16h non pu\u00f2 muoversi senza essere catturato dalla donna sul 1h, che \u00e8 pronta. Il turno 22 consente al Nero di spostare la donna sul 1h sull'8h, dove pu\u00f2 catturare la donna sul re, il che costringe al Bianco a concedere il matto per i cavalli. Dopo 2 mosse, i cavalli sono intercambiati, ma il Nero ha gi\u00e0 la vittoria."
+    },
+    {
+        "id": "001om",
+        "target": 2,
+        "risposta_llm": "2"
+    },
+    {
+        "id": "001w5",
+        "target": 2,
+        "risposta_llm": "Matto in 2. La terza mossa del roverso 'f' a g7 \u00e8 il matto. Il punto di rovesciamento (casa roverso per un punto) in g7 sposta il pezzo nero sul punto d, che \u00e8 mortale. Le mosse successive coinvolgeranno la risposta della partita a questo matto, ma il numero di mosse per ottenere il matto \u00e8 1. Pertanto, la risposta \u00e8 'Matto in 2' poich\u00e9 quel solo \u00e8 lo slancio che porta al matto."
+    },
+    {
+        "id": "003Tx",
+        "target": 2,
+        "risposta_llm": "Il matto forzato \u00e8 1. Matto in 1."
+    },
+    {
+        "id": "0042j",
+        "target": 2,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "004X6",
+        "target": 2,
+        "risposta_llm": "Il matto in essenza di queste posizioni FEN \u00e8 1. Matto in 1 mosse."
+    },
+    {
+        "id": "005N7",
+        "target": 2,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "0061g",
+        "target": 2,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "006HV",
+        "target": 2,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "007Rn",
+        "target": 2,
+        "risposta_llm": "Il matto nel matto forzato in questo punteggio \u00e8 in '3 mosse'. Questo \u00e8 il motivo per cui non ho indicato direttamente il punteggio, l'utente di scacchi dovrebbe analizzare le mosse di solito. Per trovare il matto forzato, l'utente dovrebbe procedere verso l'alba, controllare l'angolo per eventuali mosse che porterebbero alla cattura di una delle scacchine del tuo avversario, controllare se la tua scacchia finale (nuova scacchiera) sta per scacciarla o per catturare una delle scacchine del tuo avversario, in quanto ci\u00f2 pu\u00f2 portare a un patto. Poich\u00e9 il punteggio \u00e8 0, la partita \u00e8 equilibrata, ma il tuo avversario \u00e8 costretto a fare un passo per evitare la cattura o per fare un patto. Controllando questa posizione, l'utente pu\u00f2 trovare il matto per 3 mosse. Poich\u00e9 ho bisogno di una semplice risposta, il numero di mosse per il matto nel matto forzato \u00e8 '3'."
+    },
+    {
+        "id": "007ku",
+        "target": 2,
+        "risposta_llm": "Matto in 2. Posizione di matto per il re nero dopo 1...Qxe1#."
+    },
+    {
+        "id": "008GK",
+        "target": 2,
+        "risposta_llm": "Matto in 1. Il braccio nero ha appena raggiunto la prima cattura, la torre bianca su f7 deve capitolare dal momento successivo. La donna bianca ha solo un movimento per scattare la donna nero, e dopo che ne avr\u00e0 fatto due mosse, il braccio nero pu\u00f2 capturare la donna. Il braccio nero in h8 o g7 pu\u00f2 capturare la donna su f7, assicurando una vittoria immediata per Nero. La donna bianca ha meno di tre mosse per resistere."
+    },
+    {
+        "id": "008oX",
+        "target": 2,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "0092z",
+        "target": 2,
+        "risposta_llm": "Matto in 1. La sequenza di mosse che porta al matto \u00e8:\n\n1. Qxe1# (Il re del re del regno del re viene catturato, senza nessun re di regno che possa resistere, e anche le case dove altri pezzi potrebbero interferire sono vuote poich\u00e9 regnano solo le tue figlie-diavolette, rendendo questa la posizione pi\u00f9 facile da resistere, sebbene poich\u00e9 \u00e8 un matto, lo si accenna senza bisogno di una risposta complessa per le mosse di resistenza)."
+    },
+    {
+        "id": "009IO",
+        "target": 2,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "009f8",
+        "target": 2,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "009lk",
+        "target": 2,
+        "risposta_llm": "12."
+    },
+    {
+        "id": "009oc",
+        "target": 2,
+        "risposta_llm": "8"
+    },
+    {
+        "id": "009zR",
+        "target": 2,
+        "risposta_llm": "12"
+    },
+    {
+        "id": "00Bg4",
+        "target": 2,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00CtS",
+        "target": 2,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00EEp",
+        "target": 2,
+        "risposta_llm": "Matto in 2. La posizione FEN diata illustra un gioco di scacchi dove le mosse per portare a un matto in esatto due mosse dal punto di svolta. Il primo mattto \u00e8 raggiunto con il scacco mattato dal re nero sulla cd5 (la quinta casella colina da sinistra sul lato del re nero), e poich\u00e9 i movimenti sono risposte consecutive (il re nero muove direttamente in c5, mentre il regno del re bianco ha una regina che \u00e8 bloccata dal re nero), lo scacco matto si verifica dopo le due mani, portando al risultato finale di win in due mosse."
+    },
+    {
+        "id": "00F2o",
+        "target": 2,
+        "risposta_llm": "Matto in 2. Le mosse per raggiungere questo matto includono lo spostamento del pedone nero dalla c4 (1... Qd3) seguito dalle mosse del re della casamatta (2. Ra8#). \u00c8 un matto per costringimento immediato."
+    },
+    {
+        "id": "00HEh",
+        "target": 2,
+        "risposta_llm": "2."
+    },
+    {
+        "id": "00HZC",
+        "target": 2,
+        "risposta_llm": "Il matto forzato si trova in 2 mosse. Il numero \u00e8 2."
+    },
+    {
+        "id": "00HzH",
+        "target": 2,
+        "risposta_llm": "Matto in 1\n\nSi noti che la risposta richiede solo il numero di mosse per arrivare al matto, quindi la soluzione esatta al gioco da gioco non \u00e8 richiesta. La posizione fornita condivide indizi sul matto forzato con 1 mossa, che indica la presenza di un potenziale matto con solo un altro colpo da una posizione specifica."
+    },
+    {
+        "id": "00JQS",
+        "target": 2,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00JS1",
+        "target": 2,
+        "risposta_llm": "Il matto forzato in questa posizione FEN \u00e8 2. Matto in 1."
+    },
+    {
+        "id": "00KVb",
+        "target": 2,
+        "risposta_llm": "Matto in 3"
+    },
+    {
+        "id": "005wy",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00BrZ",
+        "target": 3,
+        "risposta_llm": "Matto in 1 Nota: L'alba del bianco in questa posizione \u00e8 1. Se la dama e i soldati restano dove sono, il bianco \u00e8 sicuro di conquistare una pedana per fare passare al soldato, che indotta un matto senza alcun contrappeso. Matto in 1."
+    },
+    {
+        "id": "00Ivf",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00J1t",
+        "target": 3,
+        "risposta_llm": "Matto in 2.\n\nSi \u00e8 richiesto 2 mosse per raggiungere la ripetizione, seguendo le regole della posizione FEN e le condizioni di un matto. La posizione specifica, la posizione del scacchiere (r1qr3k/pp3pB1/1np1pb2/8/3P3P/2N2PR1/PP1Q2P1/2KR4 b - - 0 22), suggerisce chiaramente. La posizione del scacchiere del turno del bianco (2KR4 b - - 0 22, dove 2KR4 = Re di Coppi nel rigo finale da b) \u00e8 sufficiente per identificare che la bianco ha un matto in 2 mosse. La regola del matto viene soddisfatta grazie al fatto che il Re di Coppi (i bianco) non ha mosse valide che non portino alla perdita del Palco di Coppo (o Coppo di Coppi) o non \u00e8 capturato dal Re di Nero. Pertanto, la posizione ha un matto di 2 mosse con la regola del matto che \u00e8 la scommessa nel regno dei scacchi per un matto per il bianco."
+    },
+    {
+        "id": "00Kbj",
+        "target": 3,
+        "risposta_llm": "5"
+    },
+    {
+        "id": "00O9a",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00QHM",
+        "target": 3,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00RwV",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00d5g",
+        "target": 3,
+        "risposta_llm": "4\n\nLa posizione presentata mostra che, data la posizione del pedone sull'a o in e, la casa dello scacchiere \u00e8 il matto per la squadra nera poich\u00e9 il piccolo pedone non pu\u00f2 essere incolpato dal scacchiere quando proviene a espanderli con un movimento finale. La posizione della casa nera sul pedone \u00e8 tale che il Nero imposter\u00e0 sul b per attaccare il re. La posizione del regno del Polo Nereo \u00e8 proprio sul pedone e lo scacchiera, il che significa che questo pedone non pu\u00f2 scappare; ha solo tre possibili scatti (sull'a, sull'e o sull'g2), che tutti porterebbero alla perdita del pedone. Il nero ha un punto di matta forzato a 4 mosse."
+    },
+    {
+        "id": "00dt1",
+        "target": 3,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00gH0",
+        "target": 3,
+        "risposta_llm": "Matto in 1. La posizione sopra illustrata, quando giocata correttamente, conduce naturalmente al patto con 1. Le mosse sono abbastanza chiarissime, soprattutto per i principianti. Si tratta principalmente del patto con la dama, che attacca al pezzo del re. La posizione \u00e8 altamente forzata; le mosse da parte di entrambi i giocatori non cambieranno questo aspetto. Questo tipo di patto \u00e8 spesso noto come patto con pedone o patto con una sola fila. Da qualsiasi posizione in cui la dama attacca al re, con osenni e le due finestre di file aperte, \u00e8 sempre possibile raggiungere questo patto in un numero misurabile di mosse. Questo caso specifico, in una semplice sequenza di mosse, sarebbe resolto in un numero di mosse inferiore a 3, essenzialmente 1-2. Il 35 sul corpo della nota FEN indica il turno; questo caso \u00e8 del turno nero."
+    },
+    {
+        "id": "00gNl",
+        "target": 3,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "00l68",
+        "target": 3,
+        "risposta_llm": "Matto in 2. Il matto si verifica nella fase tre con Qxe1# e il Nero ha mosse insufficienti per salvare la torre dal matto."
+    },
+    {
+        "id": "00o7c",
+        "target": 3,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "00pSv",
+        "target": 3,
+        "risposta_llm": "11"
+    },
+    {
+        "id": "00ueM",
+        "target": 3,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "00vuv",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "00wUm",
+        "target": 3,
+        "risposta_llm": "Matto in 2. La posizione mostra che il re rovesciato del nero su g7 sta vicino al castello del nero su h8, che fa intravedere due pedoni per il re. Poich\u00e9 il re non ha un cavallo che protegga da un altro pedone che lo avanza, c'\u00e8 un matto in 2 mosse. La risposta ottima pu\u00f2 essere (1. Rg8#, 1. h7#) oppure (1. Rxf8#, 1. h7#) a seconda del colore di quella che gioca per fare il mosso."
+    },
+    {
+        "id": "01382",
+        "target": 3,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "0156a",
+        "target": 3,
+        "risposta_llm": "Matto in 1. Un matto pu\u00f2 essere forzato con la prima mossa spallaba!"
+    },
+    {
+        "id": "01749",
+        "target": 3,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "019gx",
+        "target": 3,
+        "risposta_llm": "Matto per 1."
+    },
+    {
+        "id": "01B5q",
+        "target": 3,
+        "risposta_llm": "Matto in 33\n\nLa risposta implica uno spostamento che non pu\u00f2 essere contrattaccato in 33 mosse, con il re finale del re del lato bianco che attacca il pedone nero in una posizione che consente alle diverse torri del re e dei campioni del re di mettere al sicuro il re dell'avversario. Non ne esiste una sequenza perfetta, ma le possibili sequenze, date le complessit\u00e0 del problema, generalmente non risulteranno in pi\u00f9 di 33 mosse per determinare tutti i possibili movimenti che condurranno al matto. Tuttavia, senza una mappatura completa o una prova individuale, \u00e8 difficile fornire il numero esatto di mosse. La risposta fornisci un numero approssimativo basato su una ricerca generale delle posizioni di matto, poich\u00e9 la mappatura completa di tutti gli eventuali sequenze per il matto potrebbe superare significativamente questo limite. La vera dimensione del puzzle potrebbe potenzialmente richiedere un numero maggiore di mosse, ma \u00e8 improbabile che superi drasticamente le 33 mosse in scenari standard. Poich\u00e9 la posizione FEN specifica una sequenza di mosse (36), si presume che si tratti di un pezzo finale con lo scopo di catturare determinatamente una delle torri del re, il che potrebbe significare che il matto sia stato raggiunto in meno di 33 mosse. Pertanto, senza ulteriore analisi specifica del puzzle, l'approssimazione da 33 mosse dovrebbe essere considerata come la risposta pi\u00f9 accurata in base alle informazioni fornite."
+    },
+    {
+        "id": "01Dtr",
+        "target": 3,
+        "risposta_llm": "1. Matto in 1."
+    },
+    {
+        "id": "01FmQ",
+        "target": 3,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "01Gjl",
+        "target": 3,
+        "risposta_llm": "Matto in 3\n\nIn questa posizione del scacchi, se si concluda con 1. Ra7+ Kf8 2. Ne8 Kf7 3. Ne7# mattina, la partita finirebbe in un matto con due regine, mentre il pedone in g2 \u00e8 sul punto. La sequenza di mosse che porta al matto implica 3 mosse."
+    },
+    {
+        "id": "01IA8",
+        "target": 3,
+        "risposta_llm": "Matto in 1\n\nLa posizione di matto in questa posizione \u00e8 che i regali (R) sono posti da modo tale che whenever il Giocatore Nero muove il nastro (N), il Giocatore Bianco farebbe in modo che riceve un regale con la prossima mossa, portando immediatamente al mattaro. Nella posizione fornita, se i regali si muovono insieme, il nero impasta la difesa dello scacchiera del bianco. Il numero di mosse per raggiungere tale posizione finale dipende dalle specifiche posizioni iniziali dei regali e del nastro, ma generalmente si tratter\u00e0 del minor numero di mosse che porterebbero un tale contrattempo. Le posizioni iniziali non sono fornite in modo tale da calcolare esattamente il numero di mosse, ma poich\u00e9 abbiamo il matto da subito, \u00e8 da presumere che sia possibile in una singola mossa. Pertanto, il numero di mosse \u00e8 'Matto in 1'."
+    },
+    {
+        "id": "01KSz",
+        "target": 3,
+        "risposta_llm": "Il matto forzato in questo punto di gioco \u00e8 1. Matto in 1."
+    },
+    {
+        "id": "01Kz0",
+        "target": 3,
+        "risposta_llm": "Matto in 1. La raccomandazione per il primo giocatore \u00e8 Rf6 con un matto immediato poich\u00e9 scacchiato da b7 a c7 fallirebbe e b8=r matto. In altre parole, il matto di scacco \u00e8 in atto dalla prima mossa."
+    },
+    {
+        "id": "01LaG",
+        "target": 3,
+        "risposta_llm": "Matto in 2 (Conjugato). La prima mossa da parte del bianco \u00e8 Qg5, dove Qh7 \u00e8 la patta sicura. Al secondo mossa di bricio, Qg6 in e1 porta Qg7=mate con il trionfo del Leone per un colpo. La sequenza di mosse \u00e8: 1. Qg5 Qh7= 2. Qg6#"
+    },
+    {
+        "id": "00LRq",
+        "target": 4,
+        "risposta_llm": "Matto in 2. Il giocatore bianco ha fatto una sequenza di mosse che dopo la mossa 2... Qxb2, il re del re nero (R) \u00e8 in una posizione in cui non si pu\u00f2 muovere senza cadere in damazione, costringendo al zugzwang. Il giocatore nero ha appena fatto una mossa per portare il punteggio a 2, permettendo al bianco di mettere in pericolo lo scacco finale. La posizione non \u00e8 gi\u00e0 al matto poich\u00e9 il bianco ha ancora mosse in gioco, ma il bianco sta per far cedere lo scacco con la prossima mossa. Pertanto, per il momento non possiamo dichiarare il gioco concluso ma solo il forzo al zugzwang in 2 mosse.\n\nNota: Senza la posizione FEN diretta, questa analisi si basa su un'immagine generica del gioco per descrivere ci\u00f2 che potrebbe accadere in una situazione simile. I movimenti effettivi potrebbero variare."
+    },
+    {
+        "id": "00O9Z",
+        "target": 4,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "01FSC",
+        "target": 4,
+        "risposta_llm": "Matto in 8."
+    },
+    {
+        "id": "02kXd",
+        "target": 4,
+        "risposta_llm": "Matto in 1\n\nLa posizione mostrata nel FEN indica che ci sono due pezzi al calare per farci cedere. Non \u00e8 mai necessario fare una mossa (inversioni o scambi), perch\u00e9 dopo le prossime mani dei pezzi, si ridurr\u00e0 il calo. \u00c8 possibile raggiungere questo stato dopo la mossa 1.Bd2, lasciando un pedone che scende al calo in ogni gioco. La risposta \u00e8 'Matto in 1' perch\u00e9, nelle scacchi, un 'matto' significa che uno dei giocatori viene messo in una posizione tale che ha perso. Nel contesto di questa situazione specifica, un 'calo al calo' significerebbe che uno dei giocatori sta per perdere una pedone (e quindi un'unit\u00e0 del punteggio), rendendo l'avversario in una posizione di matto. La risposta 'Matto in 1' indica che uno scambio in una mancia specifica (1.Bd2) porter\u00e0 al matto per il blanco da parte del nero."
+    },
+    {
+        "id": "03I6j",
+        "target": 4,
+        "risposta_llm": "Matto in 1 Movimento. La prima mossa da partenza per il giocatore nciu (D1h4) cattura il cavallo negro sulla c4, forzando il re nero in una posizione di matto dove il nciu attaccher\u00e0 direttamente la torre."
+    },
+    {
+        "id": "04g7p",
+        "target": 4,
+        "risposta_llm": "Mattone in 3."
+    },
+    {
+        "id": "04hpo",
+        "target": 4,
+        "risposta_llm": "Il matto in 2."
+    },
+    {
+        "id": "04nDo",
+        "target": 4,
+        "risposta_llm": "1"
+    },
+    {
+        "id": "04p5R",
+        "target": 4,
+        "risposta_llm": "Matto in 1. La donna (la figura bianca) \u00e8 matta dopo la mossa 1.Qd8#. La donna cattura prima, e il re non ha nessuna casella-safe da cui andare, con solo una casella che \u00e8 sotto la donna."
+    },
+    {
+        "id": "05DXA",
+        "target": 4,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "05iJw",
+        "target": 4,
+        "risposta_llm": "Matto in 1\n\nLa posizione implica una posizione diretta: un pedone che giace di partenza sul file c si trover\u00e0 direttamente sul re avversario in una scorrimento se ha il turno. Poich\u00e9 il re attuale ha bisogno solo di un passaggio per raggiungere il punto c per scattare il pedone avversario in e1, risultando in la caduta del re, \u00e8 un matto. Non \u00e8 necessario contare i mosse perch\u00e9 non c'\u00e8 alcun caso in cui l'avversario evita la caduta con l'unica opportunit\u00e0 disponibile; \u00e8 immediato a ogni turno. Pertanto, il matto avviene con un movimento."
+    },
+    {
+        "id": "062e9",
+        "target": 4,
+        "risposta_llm": "Matto in 1. La prima fase del gioco inizia con la mossa di scacco, 'Bh4', che minaccia immediatamente la pedana 'e7', costringendo il nero a intervenire per la difesa. Se il nero sposta il pedone 'e' per 'e6', allora la fine da pedano 'g8' sar\u00e0 sotto minaccia diretta dal pedone 'b' e dalla dama 'R', portando a una perdita di pedana. La presa di tempo per raggiungere tale patenza dipenderebbe dalla capacit\u00e0 dimostrandosi che non c'\u00e8 un'opzione non matta. Poich\u00e9 questa \u00e8 una situazione molto complessa con molte scelte da fare, supporremo che sia l'avversario lecca immediatamente, portando cos\u00ec al matto. Pertanto, il numero di mosse per raggiungere una situazione matta \u00e8 1."
+    },
+    {
+        "id": "06FI0",
+        "target": 4,
+        "risposta_llm": "Matto in 2. La posizione forzata da 1. Rh4! con segue: 1... Qh4# 2. Ccedda (\u00e8 il 'mattone' che non pu\u00f2 essere risparmiato) ed \u00e8 1. Rh4# due mosse indietro. Il matto viene creato dall'attacco al re e all'alfiere da parte del scacchiero. Al gioco 1...Rh2, la risposta del scacchiero sarebbe 2. Rh1# con il matto. Poich\u00e9 il gioco non include queste mosse, il matto \u00e8 raggiungibile in 2 mosse."
+    },
+    {
+        "id": "06LQW",
+        "target": 4,
+        "risposta_llm": "22"
+    },
+    {
+        "id": "06NfA",
+        "target": 4,
+        "risposta_llm": "17"
+    },
+    {
+        "id": "06jka",
+        "target": 4,
+        "risposta_llm": "Matto in 3"
+    },
+    {
+        "id": "07I8T",
+        "target": 4,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "07k2s",
+        "target": 4,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "07uEu",
+        "target": 4,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "087XE",
+        "target": 4,
+        "risposta_llm": "16"
+    },
+    {
+        "id": "09Ouj",
+        "target": 4,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "09Yyy",
+        "target": 4,
+        "risposta_llm": "Matto in 1. Le mosse da E5, F5, Ha3 o Hc4 forzeranno la Reina a Kd3 o Kc4, lasciando una Re Rotante che indra e matta il Campione (a 30 movimenti per il matto effettivo in senso classico, ma il matto \u00e8 subito. La risposta di base senza considerare le restrizioni di tempo in una partizione reale non potrebbe essere risolta in numero specifico di mosse, sebbene sia notevole, ma come tale la domanda appare che richiede solo il fattore 'forzato', quindi rispondo Matto nel 1."
+    },
+    {
+        "id": "09frX",
+        "target": 4,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "0A532",
+        "target": 4,
+        "risposta_llm": "Matto in 1. Il nero ha portato a patto per la quarta casella di coda (d4), rendendolo nuovamente una pedina. Si \u00e8 ottenuto il mate con c4# in un quarto di movimento."
+    },
+    {
+        "id": "0APYD",
+        "target": 4,
+        "risposta_llm": "Il matto in 2."
+    },
+    {
+        "id": "0ARwj",
+        "target": 4,
+        "risposta_llm": "Matto in 6."
+    },
+    {
+        "id": "0Ay2s",
+        "target": 4,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0BebU",
+        "target": 4,
+        "risposta_llm": "23\n\nLa posizione \u00e8 un matto forzato per Wei\u00df immediatamente. Il finale \u00e8 attivativo per Wei\u00df e ne converge in 23 mosse."
+    },
+    {
+        "id": "0Bq5f",
+        "target": 4,
+        "risposta_llm": "15. Matto in 3 mosse. (La sequenza di mosse \u00e8: 1. Re1 Rxa8 2. Rxa8 Rxb7 3. Re8#)"
+    },
+    {
+        "id": "0Bsf6",
+        "target": 4,
+        "risposta_llm": "4"
+    },
+    {
+        "id": "051YJ",
+        "target": 5,
+        "risposta_llm": "Matto in 1. Il giocatore Q biasta immediatamente, costringendo il pezzo da parte dell'alfiere N sulla cune d'abbiamo che non pu\u00f2 essere difesa. Per ogni possesso delle case, lo scacco persiste, rendendo il numero minore di mosse 1."
+    },
+    {
+        "id": "065sJ",
+        "target": 5,
+        "risposta_llm": "7."
+    },
+    {
+        "id": "0Acau",
+        "target": 5,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0AtUL",
+        "target": 5,
+        "risposta_llm": "Matto in 1\n\nIl mattone per le dame sul centro \u00e8 in una posizione forte che non pu\u00f2 essere respinto se le mosse sono giuste per entrambi i giocatori. Pertanto, le mosse successive del giocatore bloccato daranno questo matto in 1 passo."
+    },
+    {
+        "id": "0BjAV",
+        "target": 5,
+        "risposta_llm": "Il matto in 1."
+    },
+    {
+        "id": "0CYaa",
+        "target": 5,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "0GKwj",
+        "target": 5,
+        "risposta_llm": "Matto in 3"
+    },
+    {
+        "id": "0Gayy",
+        "target": 5,
+        "risposta_llm": "Il numero del matto forzato \u00e8 1. Matto in 1."
+    },
+    {
+        "id": "0HdH1",
+        "target": 5,
+        "risposta_llm": "Matto in 1. Il nero ha forziato a mate con Qb8# in una singola mossa."
+    },
+    {
+        "id": "0Inzg",
+        "target": 5,
+        "risposta_llm": "4"
+    },
+    {
+        "id": "0JhHh",
+        "target": 5,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0K4vt",
+        "target": 5,
+        "risposta_llm": "Matto in 1. Il negro \u00e8 nella posizione in cui ne ha enough per dare forzare la scacchiera. Il nero ha le regine che possono colpire e controllare i torri da diverse posizioni, e ha enough pedoni per controllare il centro e per tentare un passo finale. La scacchia del negredo, se catturate, permetteranno immediatamente al negro di terminare la partita con una caduta della regina. Il negro non ha mosse semplici per distogliere le minacce: pu\u00f2 fare d, h6, e forse d5 in seguito, ma il negro ha gi\u00e0 controllato quasi todo il centro e i lati, con la minaccia imminente del matto."
+    },
+    {
+        "id": "0LStG",
+        "target": 5,
+        "risposta_llm": "Il matto in 4."
+    },
+    {
+        "id": "0Ngid",
+        "target": 5,
+        "risposta_llm": "Matto in 2. Il giocatore nero pu\u00f2 effettuare una mossa che porter\u00e0 a una situazione di matto per il bianco. Attendo una breve spiegazione: Il bianco ne ha bisogno di un passaggio per liberare un pedone e per creare una doppia punteggio. Il nero pu\u00f2 liberare immediatamente il suo dama verso il punto che ha un pedone nemico, causando un mate in due mosse."
+    },
+    {
+        "id": "0PbDU",
+        "target": 5,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0SPDT",
+        "target": 5,
+        "risposta_llm": "Matto in 3."
+    },
+    {
+        "id": "0UR61",
+        "target": 5,
+        "risposta_llm": "Matto in 5."
+    },
+    {
+        "id": "0UlS3",
+        "target": 5,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "0VqTM",
+        "target": 5,
+        "risposta_llm": "Matto in 23. La terza mossa (Kxe4) perci\u00f2 spingerebbe al matto Rxe4, con un re che si incastra su una torre. I pezzi nati non possono impedire il mate. La sequenza di mosse sarebbe: 1...Qxd5, 2. Qxd5 Qxe4+ 1-, e il regina ha spunto per le terze mosse."
+    },
+    {
+        "id": "0f37X",
+        "target": 5,
+        "risposta_llm": "Matto in 3. La posizione \u00e8 priva di mosse senza aver fatto un errore, con un matto forzato per 3 mosse."
+    },
+    {
+        "id": "0f3zy",
+        "target": 5,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0g5p7",
+        "target": 5,
+        "risposta_llm": "27. f5+ di, matto in 1."
+    },
+    {
+        "id": "0j6AL",
+        "target": 5,
+        "risposta_llm": "Il matto forzato nel rocco al trone della dodicesima mossa. Matto in 1."
+    },
+    {
+        "id": "0q9MG",
+        "target": 5,
+        "risposta_llm": "Matto in 2."
+    },
+    {
+        "id": "0tRET",
+        "target": 5,
+        "risposta_llm": "7"
+    },
+    {
+        "id": "0udPQ",
+        "target": 5,
+        "risposta_llm": "Matto in 4."
+    },
+    {
+        "id": "0xulG",
+        "target": 5,
+        "risposta_llm": "Matto in 0\n\nQuesta posizione \u00e8 per lo pi\u00f9 una posizione di matto per le damigelle nere perch\u00e9 la damigella bianca sta per far cadere una damigella nera sul ponte. Poich\u00e9 un matto in damigelle avviene quando le damigelle nere causano la perdita di una damigella bianca sul ponte, e non vi sono altri mosse connesse, il matto arriva immediatamente. Il numero di mosse per venire al matto \u00e8 '0'."
+    },
+    {
+        "id": "13VkI",
+        "target": 5,
+        "risposta_llm": "Matto in 1."
+    },
+    {
+        "id": "13qoZ",
+        "target": 5,
+        "risposta_llm": "Matto in 2 movimenti. Il primo mossa del bianco sarebbe c4, spingendo il pedone e costringendo al matto il cavalier nero sul f7, che non pu\u00f2 muoversi senza essere attaccato dalla torre, rendendo la posizione impossibile per lo sfiduciato."
+    },
+    {
+        "id": "16hgq",
+        "target": 5,
+        "risposta_llm": "Matto in 1. In questo dato posizionamento FEN, la scacchiera \u00e8 sotto la pressione di un matto se il re nero sul f7 pu\u00f2 passare al f7 (f7 = g1 in notazione FEN) il turno successivo. Poich\u00e9 \u00e8 il turno per il nero, non \u00e8 necessario considerare mosse; la patta che lo attacca \u00e8 immediatamente vincente per il bianco. Il numero di mosse richieste per ottenere la patta \u00e8 zero, ma per la necessit\u00e0 di specificare la quantit\u00e0 richiesta per soddisfare la richiesta iniziale, diremo 'Matto in 1'."
+    }
+]
